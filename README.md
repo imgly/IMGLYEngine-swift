@@ -2,20 +2,17 @@
 
 # IMGLYEngine
 
-**IMGLYEngine** for iOS is a fully customizable,
-simple-to-use design editor. 
+The (**IMGLYEngine**) for iOS is the rendering engine that powers CE.SDK. 
 
 Seamlessly integrate it into any iOS app with just a few lines of code. The
-editor combines the best of layout, typography and photo editing. **IMGLYEngine**
-also facilitates both template creation and adaption workflows, also featuring
-constraints and text placeholders for database automations.
+engine enables automated image processing as well as building creative editing experiences.
 
-This package contains the Swift version of **IMGLYEngine**, the core of
-our SDK. It is suitable for integrating image processing into
+This package contains the Swift version of the **IMGLYEngine**, the core of
+our SDK. It is suitable for integrating image processing and editing into
 SwiftUI or UIKit applications.
 
-Visit our [website](https://img.ly) for more tutorials on how to integrate and
-customize the engine for your specific use-case.
+Visit our [website](https://img.ly/docs/cesdk) for more tutorials on how to integrate and
+customize the engine for your specific use case.
 
 ## Integration
 
@@ -78,14 +75,14 @@ class IntegrateWithUIKit: UIViewController {
 ```
 
 ## Documentation
-The full documentation of **IMGLYEngine** can be found at
+The full documentation of IMGLYEngine can be found at
 [here](https://img.ly/docs/cesdk/ios/).
 There you will learn what configuration options are available and find a list
 and description of all API methods.
 
 ## License
 
-**IMGLYEngine** is a commercial product. To use it as such and get
+The IMGLYEngine is a commercial product. To use it as such and get
 access to its white label version - without the watermark in the export - you
 need to unlock the SDK with a license file. You can purchase a license at
 https://img.ly/pricing.
