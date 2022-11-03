@@ -1,19 +1,18 @@
 ![Hero image showing the configuration abilities of IMGLYEngine](https://img.ly/static/cesdk_release_header.png)
 
-# IMGLYEngine
+# IMGLY Creative Engine
 
-The (**IMGLYEngine**) for iOS is the rendering engine that powers CE.SDK. 
+This package contains the Swift version of the IMG.LY *Creative Engine*, the core of CE.SDK. 
+The Creative Engine enables you to build any design editing UI, automation and creative workflow in Swift.
+It offers performant and robust graphics processing capabilities combining the best of layout, typography and image processing with advanced workflows centered around templating and adaptation. 
 
-Seamlessly integrate it into any iOS app with just a few lines of code. The
-engine enables automated image processing as well as building creative editing experiences.
+The Creative Engine seamlessly integrates into any iOS app whether you are building a photo editor, template-based design tool or scalable automation of content creation for your app.
 
-This package contains the Swift version of the **IMGLYEngine**, the core of
-our SDK. It is suitable for integrating image processing and editing into
-SwiftUI or UIKit applications.
-
-Visit our [website](https://img.ly/docs/cesdk) for more tutorials on how to integrate and
+Visit our [documentation](https://img.ly/docs/cesdk) for more tutorials on how to integrate and
 customize the engine for your specific use case.
 
+## License
+The CreativeEditor SDK is a commercial product. To use it as such and get access to its white-label version - without the watermark in the export - you need to unlock the SDK with a license file. You can purchase a license at https://img.ly/pricing.
 ## Integration
 
 ### SwiftUI
