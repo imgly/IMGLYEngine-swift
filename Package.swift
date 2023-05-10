@@ -10,8 +10,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "IMGLYEngine",
-      url: "https://cdn.img.ly/packages/imgly/engine-apple/1.11.0-rc.0/IMGLYEngine-v1.11.0-rc.0.xcframework.zip",
-      checksum: "3e9db6323553a9c51e0812930b3b6369f5f1d3d54f81567820b47c927292b240"
+      url: "https://cdn.img.ly/packages/imgly/engine-apple/1.11.0/IMGLYEngine-v1.11.0.xcframework.zip",
+      checksum: "c49ca4e1677d73df547241f6b91d32c619adc5958327e5e217911a44ddb7fb2e"
     )
   ]
 )
