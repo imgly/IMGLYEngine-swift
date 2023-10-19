@@ -1,36 +1,36 @@
 # IMGLYEngine
-## Terms of Service
 
+## Terms of Service
 
 ### 1. Subject Matter
 
-1.1 These Terms of Service (together with any applicable Order Form the “__Agreement__”) governs all rights granted by Licensor to use and commercially exploit the IMGLYEngine (the “__Software__”).
+1.1 These Terms of Service (together with any applicable Order Form the “**Agreement**”) governs all rights granted by Licensor to use and commercially exploit the IMGLYEngine (the “**Software**”).
 
-1.2 The Agreement is entered into by and between img.ly GmbH, Kortumstraße 68, 44787 Bochum, Germany (the “__Licensor__”) and the entity identified in the Order Form (the “__Licensee__”, together with Licensor the “__Parties__”) as of the effective date the Order Form is last signed on.
+1.2 The Agreement is entered into by and between img.ly GmbH, Kortumstraße 19-21, 44787 Bochum, Germany (the “**Licensor**”) and the entity identified in the Order Form (the “**Licensee**”, together with Licensor the “**Parties**”) as of the effective date the Order Form is last signed on.
 
 1.3 This Agreement shall govern the use of the Software for commercial purposes. To the extent the Software is intended to be used for non-commercial purposes only, an alternative licensing scheme may be available upon Licensor’s discretion.
 
-### 2. Order Form 
+### 2. Order Form
 
-2.1 An “__Order Form__” may either be executed (i) by the Parties upon individual negotiation or (ii) via an online order issued by Licensee via Licensor`s website at www.photoeditorsdk.com (the “__Website__”) that has been confirmed by Licensor. Online orders not confirmed within 14 days after issuance shall be considered denied.
+2.1 An “**Order Form**” may either be executed (i) by the Parties upon individual negotiation or (ii) via an online order issued by Licensee via Licensor`s website at https://img.ly (the “**Website**”) that has been confirmed by Licensor. Online orders not confirmed within 14 days after issuance shall be considered denied.
 
 2.2 No rights shall be granted to Licensee by virtue of these Terms of Service alone as such grant requires the execution of an Order Form making reference to these Terms of Service.
 
 2.3 The Order Form shall specify the environment for the Software that shall be licensed by Licensee.
 
-2.4 The Order Form shall specify (i) the Subscription Term and (ii) the License Fees. Unless specified otherwise in the Order Form, the Subscription Term shall be based on monthly or annual periods for payment of the License Fees (the “__Payment Periods__”).
+2.4 The Order Form shall specify (i) the Subscription Term and (ii) the License Fees. Unless specified otherwise in the Order Form, the Subscription Term shall be based on monthly or annual periods for payment of the License Fees (the “**Payment Periods**”).
 
-2.5 Licensor may choose to offer Licensee a trial period of 30 days to test the Software in a dedicated testing environment not subject to License Fees (the “__Trial Period__”). Upon expiration of the Trial Period, the right to test the Software shall cease without further notice. Licensee shall then be required to execute an Order Form to obtain a License for a Subscription Term in case the Software shall be further used.
+2.5 Licensor may choose to offer Licensee a trial period of 30 days to test the Software in a dedicated testing environment not subject to License Fees (the “**Trial Period**”). Upon expiration of the Trial Period, the right to test the Software shall cease without further notice. Licensee shall then be required to execute an Order Form to obtain a License for a Subscription Term in case the Software shall be further used.
 
 ### 3. Grant of Rights
 
-3.1 Licensor shall grant to Licensee a worldwide, non-exclusive, non-transferable, non-sublicensable right to use the Software subject to the terms of this Agreement, in particular with the specifications as set out in the Order Form (the “__License__”).
+3.1 Licensor shall grant to Licensee a worldwide, non-exclusive, non-transferable, non-sublicensable right to use the Software subject to the terms of this Agreement, in particular with the specifications as set out in the Order Form (the “**License**”).
 
 3.2 The License shall pertain to the Software in object code format as well as to content data (fonts, stickers, stock images, etc.) included therein. In case the disclosure of the Software in source code format is agreed upon in the Order Form, the License shall also pertain to the Software in source code format.
 
-3.3 The term of the License shall be determined in the Order Form (the “__Subscription Term__”). The License shall commence upon initial payment of the License Fees and terminate upon the end of the Subscription Term(s). Unless stated otherwise in the Order Form, the initial Subscription Term shall automatically be extended by further consecutive Subscription Terms unless either of the Parties notifies the other in writing of its intent to terminate the License at least one month (one week in case of a monthly Subscription Term) prior to the end of the current Subscription Term. Upon expiration of the Subscription Term(s), the right to use the Software shall cease without further notice. To the extent the Subscription Term is not specified in the Order Form, Licensor shall be entitled to terminate the Agreement and revoke the License at any time.
+3.3 The term of the License shall be determined in the Order Form (the “**Subscription Term**”). The License shall commence upon initial payment of the License Fees and terminate upon the end of the Subscription Term(s). Unless stated otherwise in the Order Form, the initial Subscription Term shall automatically be extended by further consecutive Subscription Terms unless either of the Parties notifies the other in writing of its intent to terminate the License at least one month (one week in case of a monthly Subscription Term) prior to the end of the current Subscription Term. Upon expiration of the Subscription Term(s), the right to use the Software shall cease without further notice. To the extent the Subscription Term is not specified in the Order Form, Licensor shall be entitled to terminate the Agreement and revoke the License at any time.
 
-3.4 The License shall be limited to the right (i) to copy and – in case of disclosure in source code format – modify the Software for integration into one of Licensee’s products (website or app) (the “__Licenses Product__”) in accordance with the requirements of interfaces and implementation guidelines as issued by Licensor (the “__Integrated Software__”) and (ii) to copy, distribute and make available the Integrated Software to Licensee’s end customers.
+3.4 The License shall be limited to the right (i) to copy and – in case of disclosure in source code format – modify the Software for integration into one of Licensee’s products (website or app) (the “**Licenses Product**”) in accordance with the requirements of interfaces and implementation guidelines as issued by Licensor (the “**Integrated Software**”) and (ii) to copy, distribute and make available the Integrated Software to Licensee’s end customers.
 
 ### 4. Obligations and Restrictions
 
@@ -50,13 +50,13 @@
 
 ### 6. Third Party Components
 
-6.1 The Software implements components licensed under open source licenses as identified in Annex 1 (the “__OSS Components__”) and further software components and content data (fonts, stickers, stock images, etc.) provided by third parties as identified in Annex 2 (the “__Third Party Components__”). The use of the OSS Components and the Third Party Components is subject to the applicable separate licensing terms. Licensor does not act as sublicensor or agent in this regard and assumes or acknowledges no warranty or liability for the OSS Components and the Third Party Components.
+6.1 The Software implements components licensed under open source licenses as identified in Annex 1 (the “**OSS Components**”) and further software components and content data (fonts, stickers, stock images, etc.) provided by third parties as identified in Annex 2 (the “**Third Party Components**”). The use of the OSS Components and the Third Party Components is subject to the applicable separate licensing terms. Licensor does not act as sublicensor or agent in this regard and assumes or acknowledges no warranty or liability for the OSS Components and the Third Party Components.
 
 6.2 Licensee shall only use further third party software components or content data (fonts, stickers, stock images, etc.) with the Software to the extent that Licensee is entitled to such use. Licensor shall not be liable or responsible for any use of third party software components or content data by Licensee. Licensee shall indemnify and hold harmless Licensor from any third-party claims caused by Licensee’s actions involving third party software components or content data.
 
 ### 7. Payment
 
-7.1 The license fees as specified in the Order Form (the “__License Fees__”) shall be due and payable in line with the Payment Periods. To the extent the due date is not specified in the Order Form, the License Fees shall be due upon the execution of the Order Form and then upon the commencement of each further Payment Period for all of the Subscription Term.
+7.1 The license fees as specified in the Order Form (the “**License Fees**”) shall be due and payable in line with the Payment Periods. To the extent the due date is not specified in the Order Form, the License Fees shall be due upon the execution of the Order Form and then upon the commencement of each further Payment Period for all of the Subscription Term.
 
 7.2 Licensor shall invoice the License Fees to Licensee. Invoices are payable without deduction within 14 days of the date of the invoice and may be made by direct payment on the Website via credit card, if a respective option is provided by Licensor. If Licensee is in default of payment, the outstanding amount shall bear interest as applicable under statutory law. Licensor reserves all further rights resulting from default.
 
@@ -124,18 +124,19 @@
 
 13.8 Should any provision of this Agreement be or become invalid, this shall not affect the validity of the remaining terms. In such event, the Parties shall be obliged to cooperate in the creation of terms which achieve such legally valid result as comes closest commercially to that of the invalid provision. The above shall apply accordingly to the closing of any gaps in the Agreement.
 
-
 ### Annex 1
+
 #### OSS Components
 
 The Open-source software components and their licenses are listed in ThirdPartyLicenses.md
 
 ### Annex 2
+
 #### Third Party Components
 
-| Component  |
-|---|
-| Sticker: Flat Icons Vol.2 |
-| Sticker: Filled Outlined Icon Pack  |
-| Fonts: Aleo Bold, Amatic SC, Lobster, Open Sans Bold, Ostrich Sans Black, Ostrich Sans Bold, Trash Hand: _SIL Open Font License_ |
+| Component                                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sticker: Flat Icons Vol.2                                                                                                                                                                            |
+| Sticker: Filled Outlined Icon Pack                                                                                                                                                                   |
+| Fonts: Aleo Bold, Amatic SC, Lobster, Open Sans Bold, Ostrich Sans Black, Ostrich Sans Bold, Trash Hand: _SIL Open Font License_                                                                     |
 | Fonts by FontFabric: Bernier Regular, Cheque Regular, Gagalin Regular, Hagin Caps Thin, Intro Inline, Nexa Script, Panton Black Italic Caps, Panton Light Italic Caps, Perfograma: _EULA Free Fonts_ |
