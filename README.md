@@ -36,7 +36,7 @@ struct IntegrateWithSwiftUI: View {
     }
     .onAppear {
       Task {
-        engine = try await Engine(license: Secrets.licenseKey, userID: "guides-user")
+        engine = try await Engine(license: secrets.licenseKey, userID: "USER_ID")
       }
     }
   }
@@ -93,7 +93,7 @@ class IntegrateWithUIKit: UIViewController {
   override func viewDidAppear(_ animated: Bool) {
     super.viewDidAppear(animated)
      Task {
-        engine = try await Engine(context: .metalView(view: canvas), license: Secrets.licenseKey, userID: "guides-user")
+        engine = try await Engine(context: .metalView(view: canvas), license: secrets.licenseKey, userID: "USER_ID")
         engine?.onAppear()
         spinner.stopAnimating()
         button.isHidden = false
@@ -113,12 +113,6 @@ The full documentation of IMGLYEngine can be found at
 [here](https://img.ly/docs/cesdk/ios/).
 There you will learn what configuration options are available and find a list
 and description of all API methods.
-
-## License
-
-The IMGLYEngine is a commercial product. To use it you
-need to unlock the SDK with a license file. You can purchase a license at
-https://img.ly/pricing.
 
 ## Changelog
 
