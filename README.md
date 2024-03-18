@@ -52,7 +52,7 @@ struct ContentView: View {
   var body: some View {
     ZStack {
       Canvas(engine: engine)
-      Button("Use the engine") {
+      Button("Use the Engine") {
         // do something with the instance of Engine
       }
     }
