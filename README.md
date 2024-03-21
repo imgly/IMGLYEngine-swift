@@ -36,7 +36,7 @@ struct IntegrateWithSwiftUI: View {
     }
     .onAppear {
       Task {
-        engine = try await Engine(license: secrets.licenseKey, userID: "USER_ID")
+        engine = try await Engine(license: secrets.licenseKey, userID: "<your unique user id>")
       }
     }
   }
@@ -93,7 +93,7 @@ class IntegrateWithUIKit: UIViewController {
   override func viewDidAppear(_ animated: Bool) {
     super.viewDidAppear(animated)
      Task {
-        engine = try await Engine(context: .metalView(view: canvas), license: secrets.licenseKey, userID: "USER_ID")
+        engine = try await Engine(context: .metalView(view: canvas), license: secrets.licenseKey, userID: "<your unique user id>")
         engine?.onAppear()
         spinner.stopAnimating()
         button.isHidden = false
