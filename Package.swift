@@ -5,13 +5,13 @@ let package = Package(
   name: "IMGLYEngine",
   platforms: [.iOS(.v14), .macOS(.v12)],
   products: [
-    .library(name: "IMGLYEngine", targets: ["IMGLYEngine"])
+    .library(name: "IMGLYEngine", targets: ["IMGLYEngine"]),
   ],
   targets: [
     .binaryTarget(
       name: "IMGLYEngine",
-      url: "https://cdn.img.ly/packages/imgly/engine-apple/1.34.0/IMGLYEngine-v1.34.0.xcframework.zip",
-      checksum: "506c2f2dcc9680c7e323e0d3d2bc31a24a1314e707e33cc6eb337018d2d69368"
-    )
+      url: "https://cdn.img.ly/packages/imgly/engine-apple/1.35.0-rc.0/IMGLYEngine-v1.35.0-rc.0.xcframework.zip",
+      checksum: "13e27be1f90e8c50bb6ec0329e464fec472245ab549702545096086c49dcc856"
+    ),
   ]
 )
