@@ -1,4 +1,4 @@
-// swift-tools-version:6.3.1
+// swift-tools-version:6.3.3
 import PackageDescription
 
 let package = Package(
@@ -10,8 +10,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "IMGLYEngine",
-      url: "https://cdn.img.ly/packages/imgly/cesdk-swift/1.85.2/IMGLYEngine-v1.85.2.xcframework.zip",
-      checksum: "23bd14129f24911c712ae752810b417a727091928f873ca6d68f0d07d681dfc3",
+      url: "https://cdn.img.ly/packages/imgly/cesdk-swift/1.86.0-rc.0/IMGLYEngine-v1.86.0-rc.0.xcframework.zip",
+      checksum: "ead26cc076cc63f9ee754c98b5267e589a30c9a73bfca3586333646db4c38e9b",
     ),
   ],
 )
